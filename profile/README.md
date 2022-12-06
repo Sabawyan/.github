@@ -1,2 +1,1 @@
-![Sabawyan Tech](./assets/images/icon.png)
-# Sabawyan Technologies P.L.C
+<p align="center"><img src="./assets/images/icon.png" /></p>
